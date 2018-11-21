@@ -2,7 +2,7 @@
 Ants are like trafic lights
 
 Build a state machine to model the behaviour of ants
-Use a wrapper class and hold a reference one of a collection of state classes.
+Use a wrapper class and hold a reference to one of a collection of state classes.
 
 Ants wander (random walk) until they find food.
 After finding food they go directly home.
